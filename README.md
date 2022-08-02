@@ -10,7 +10,11 @@ Our new DataFrame for each city type returns the following results:
 
 <img align='center' src='Resources/PyBer_Summary.png'>
 
-We can easily see that the number of drivers in rural areas is much lower than in suburban and urban areas (31 times and 6 times lower respectively) which creates a lack of competition in those areas and inflates fares for the customer. Average fares per driver in rural areas are 40% and 235% higher than in suburban and urban areas respectively. Ultimately this situation is not only detrimental to customers, but also represents an untapped revenue opportunity / loss of profit for PyBer. Revenue generated from rural areas only accounts for 7% of the total.
+We can easily see that overall rural areas are under-served:
+- the number of rides in rural areas is 13 times and 5 times lower than in urban and suburban areas respectively.
+- the number of drivers in rural areas is much lower than in suburban and urban areas (31 times and 6 times lower respectively) which creates a lack of competition in those areas and inflates fares for the customer.
+- Average fares per driver in rural areas are 40% and 235% higher than in suburban and urban areas respectively.
+- Ultimately this situation is not only detrimental to customers, but also represents a massive loss of profit / untapped revenue opportunity for PyBer. Revenue generated from rural areas only accounts for 7% of the total.
 
 <br/>
 
