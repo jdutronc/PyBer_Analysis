@@ -23,9 +23,11 @@ All three graph lines are relatively flat over the course of the 4 months and it
 
 <br/>
 
+<br/>
+
 ## Summary and Recommendations
 
 In the next step of the analysis, it would be very interesting to find out :
 - why are there so few drivers in rural and suburban areas? Would more drivers in those areas generate more business activity, and in that case how can PyBer hire/incentivize more drivers? Or are customers in those areas just less interested in ride-sharing services in the first place (ie. no room for growth, more drivers would only share the existing pie)?
-- how much the cost of the average fare impacts potential customers' propensity to try the service? Would lower fares encourage prospects to try and existing customers to return more often? Increasing the number of drivers in those areas would increase competition and bring fares down.
+- how much the cost of the average fare impacts potential customers' propensity to try the service? Would lower fares encourage prospects to try and existing customers to return more often? Or are there other factors that deter potential customers? Long wait times? Poor user experience? Lack of driver training? What alternatives exist to ride-sharing that compete with PyBer's services (eg. local taxi or bus companies)?
 - why are average fares per ride higher in rural and suburban areas? Longer distances? Fewer drivers around? Highway tolls? Higher gas prices? This will help bring fares down and make it more affordable for residents of those areas to try out the service and hopefully return.
