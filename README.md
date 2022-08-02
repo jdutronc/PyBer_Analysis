@@ -30,7 +30,9 @@ All three graph lines are relatively flat over the course of the 4 months and it
 
 <br/>
 
-## Summary and Recommendations
+<br/>
+
+## Strategic Recommendations
 
 In the next step of the analysis, it would be very interesting to find out :
 - why are there so few drivers in rural and suburban areas? Would more drivers in those areas generate more business activity, and in that case how can PyBer hire/incentivize more drivers? Or are customers in those areas just less interested in ride-sharing services in the first place (ie. no room for growth, more drivers would only share the existing pie)?
