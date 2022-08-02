@@ -11,7 +11,7 @@ Our new DataFrame for each city type returns the following results:
 <img align='center' src='Resources/PyBer_Summary.png'>
 
 We can easily see that overall rural areas are under-served:
-- the number of rides in rural areas is 13 times and 5 times lower than in urban and suburban areas respectively.
+- the number of rides in rural areas is 13 times and 5 times lower than in urban and suburban areas respectively, which tends to show that PyBer's business in rural areas is under-developed.
 - the number of drivers in rural areas is much lower than in suburban and urban areas (31 times and 6 times lower respectively) which creates a lack of competition in those areas and inflates fares for the customer.
 - Average fares per driver in rural areas are 40% and 235% higher than in suburban and urban areas respectively.
 - Ultimately this situation is not only detrimental to customers, but also represents a massive loss of profit / untapped revenue opportunity for PyBer. Revenue generated from rural areas only accounts for 7% of the total.
@@ -24,3 +24,8 @@ All three graph lines are relatively flat over the course of the 4 months and it
 <br/>
 
 ## Summary and Recommendations
+
+In the next step of the analysis, it would be very interesting to find out :
+- why are there so few drivers in rural and suburban areas? Would more drivers in those areas generate more business activity, and in that case how can PyBer hire/incentivize more drivers? Or are customers in those areas just less interested in ride-sharing services in the first place (ie. no room for growth, more drivers would only share the existing pie)?
+- how much the cost of the average fare impacts potential customers' propensity to try the service? Would lower fares encourage prospects to try and existing customers to return more often? Increasing the number of drivers in those areas would increase competition and bring fares down.
+- why are average fares per ride higher in rural and suburban areas? Longer distances? Fewer drivers around? Highway tolls? Higher gas prices? This will help bring fares down and make it more affordable for residents of those areas to try out the service and hopefully return.
