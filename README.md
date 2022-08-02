@@ -6,7 +6,10 @@ We have just joined PyBer, a Python-based ride-sharing app, and our first assign
 
 ## Results
 
+Our new DataFrame for each city type returns the following results:
+
 <img align='center' src='Resources/PyBer_Summary.png'>
 
+We can easily see that the number of drivers in rural areas is much lower than in suburban and urban areas (XYZ and XYZ respectively) which creates a lack of competition and inflates fares for the customer. Average fares in rural areas are XYZ and XYZ higher in rural areas than suburban and urban areas respectively.
 
 ## Summary and Recommendations
