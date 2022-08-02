@@ -14,6 +14,6 @@ We can easily see that the number of drivers in rural areas is much lower than i
 
 <br/>
 
-<img align='center' src='PyBer_fare_summary.png' height="200">
+<img align='right' src='PyBer_fare_summary.png' height="250">
 
 ## Summary and Recommendations
